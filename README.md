@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @EfrenRoa12
-- 👀 I’m interested in project software
+- 👋 Hi, I’m Efren Rodriguez
+- 👀 I’m interested in project software FrontEnd.
 - 🌱 I’m currently learning Web and code
-- 💞️ I’m looking to collaborate on project personal
-- 📫 How to reach me Facebook Efren Rodriguez 
+- 💞️ I’m collaborate on project personal in institute Fuerza Mujer.
+- 📫 How to reach me Facebook Efrén Rodríguez 
 
 <!---
 EfrenRoa12/EfrenRoa12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
