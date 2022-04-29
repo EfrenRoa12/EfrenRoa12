@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Efren Rodriguez
-- 👀 I’m interested in project software FrontEnd.
+- 👀 I’m programing Backend and Frontend
 - 🌱 I’m currently learning Web and code
-- 💞️ I’m collaborate on project personal in institute Fuerza Mujer.
+- 💞️ I’m collaborate on Telcel with GlobalHitss
 - 📫 How to reach me Facebook Efrén Rodríguez 
 
 <!---
